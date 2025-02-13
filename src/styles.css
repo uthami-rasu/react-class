@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #cbbdbd;
+}
+.myc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+}
+button {
+  background-color: #1b1515;
+  border-radius: 1.2rem;
+  color: #fff;
+  transition: 1s;
+  height: 2.2rem;
+  width: 6rem;
+  font-weight: 550;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}
